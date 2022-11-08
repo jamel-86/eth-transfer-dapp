@@ -109,8 +109,8 @@ export default function Home() {
   return (
     <div className="min-h-screen flex-col flex justify-center items-center">
       <Head>
-        <title>First DAPP</title>
-        <meta name="description" content="Dapp made by Mukul Rajpoot" />
+        <title>Private Sale DAPP</title>
+        <meta name="description" content="Dapp made by MintPad" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
